@@ -13,7 +13,7 @@
 
 + 1.INTRODUCCIÓN
 
-   + 1.1 Objetivos de la práctica
+   + 1.1. Objetivos de la práctica
 
    + 1.2. Mancala
 
