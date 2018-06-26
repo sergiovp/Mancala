@@ -16,7 +16,6 @@ struct Nodo{
     Move mov;
 };
 
-
 class VelaBot:Bot {
 //private:
 
