@@ -11,9 +11,9 @@
 
 ### ÍNDICE
 
-+ 1. INTRODUCCIÓN
++ 1.INTRODUCCIÓN
 
-   + 1.1. Objetivos de la práctica
+   + 1.1 Objetivos de la práctica
 
    + 1.2. Mancala
 
@@ -27,7 +27,7 @@
 
         + 1.2.5. Conclusión
 
-+ 2. DISEÑO DEL ALGORITMO
++ 2.DISEÑO DEL ALGORITMO
 
 
 
